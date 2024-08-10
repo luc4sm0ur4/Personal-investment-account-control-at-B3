@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Carteira de Investimentos Pessoais
+# Sistema de Gerenciamento de Carteira de Investimentos Pessoais na B3
 
 ## Descrição
 
